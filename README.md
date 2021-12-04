@@ -3,7 +3,7 @@ fetch latest updates from http://aitplacements.com/ and receive updates through 
 
 ## Installation
 
- 1. Clone or fork the repo : git clone https://github.com/msdeep14/stayUpdated.git
+ 1. Clone or fork the repo : git clone https://github.com/shubhgarg2401/Stayupdated
  2. Edit username, password, mobile number, app key, app secret in main.py
  3. Set delay time according to your need (current delay = 5sec)
  4. Execute main.py from any of the directory(sinchSMS or way2SMS).
